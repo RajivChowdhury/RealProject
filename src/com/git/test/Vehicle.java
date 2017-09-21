@@ -6,6 +6,7 @@ public class Vehicle {
 	private String vin;
 	private String engine;
 	private String user;
+	private String mileage;
 	
 	public Vehicle(){
 		System.out.println("Hello");
