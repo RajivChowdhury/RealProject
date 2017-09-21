@@ -11,4 +11,12 @@ public class Vehicle {
 		System.out.println("Hi");
 	}
 
+	public String getSteering() {
+		return steering;
+	}
+
+	public void setSteering(String steering) {
+		this.steering = steering;
+	}
+
 }
