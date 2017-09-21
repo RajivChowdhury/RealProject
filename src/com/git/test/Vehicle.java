@@ -28,4 +28,12 @@ public class Vehicle {
 		this.vin = vin;
 	}
 
+	public String getSteering() {
+		return steering;
+	}
+
+	public void setSteering(String steering) {
+		this.steering = steering;
+	}
+
 }
